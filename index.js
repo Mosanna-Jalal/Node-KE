@@ -24,4 +24,5 @@ for (var i = 2; i <= end; i++) {
     arr.push(i);
   }
 }
+// added comment
 console.log(arr);
